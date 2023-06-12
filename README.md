@@ -15,7 +15,7 @@ NOW YOUR METAMASK ACCOUNT SHOULD LOOK LIKE THIS :
 
 
   
-  ![App Screenshot](https://i.postimg.cc/zBGqc0SH/1.png)
+  ![App Screenshot](https://i.postimg.cc/RFxgCZZc/123.png)
 
 # 20 LAB  
 CREATING AN ERC20 TOKEN INVOLVES A SOLIDITY CONTRACT THAT IMPLEMENTS THE ERC20 TOKEN STANDARD.  
